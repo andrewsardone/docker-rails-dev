@@ -8,7 +8,7 @@
 #   --rm \
 #   --it \
 #   -v .:/app \
-#   andrewsardone/rails-dev
+#   andrewsardone/docker-rails-dev
 # ```
 #
 # You should make a Dockerfile for your own app that inherits from this guy and
